@@ -1,5 +1,5 @@
 <!-- banner -->
-<!-- <img src="https://github.com/Janesh7/blob/main/Banner.png"> -->
+<img src="https://github.com/Janesh7/Janesh7/blob/main/banner.jpg">
 
 [![Linkedin: Janesh](https://img.shields.io/badge/-Janesh-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janesh-walia-483378226/)](https://www.linkedin.com/in/janesh-walia-483378226/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Janesh7?label=Follow&style=social) &nbsp;
