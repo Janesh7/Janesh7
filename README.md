@@ -40,7 +40,7 @@
 <a href="https://linkedin.com/in/janesh-walia-483378226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janesh Walia" height="30" width="40" /></a>
 <!-- <a href="https://hashnode.com/@J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@j" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j" height="30" width="40" /></a> -->
-<a href="https://discord.gg/XCV7mY3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janesh" height="30" width="40" /></a>
+<a href="https://discord.gg/VGwqy5tdAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janesh" height="30" width="40" /></a>
 <!-- <a href="/j.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="j" height="30" width="40" /></a> -->
 </p>
 
