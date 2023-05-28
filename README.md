@@ -65,9 +65,9 @@
 
 <b>My Statistics</b><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Janesh7&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Janesh7&show_icons=true&locale=en&theme=dark" alt="Janesh7" /></p>
 <br>
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Janesh7&theme=dark" alt="amajaying" style="max-width: 100%;"/>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Janesh7&theme=dark" alt="Janesh7" style="max-width: 100%;"/>
 </p>
 
 
@@ -81,4 +81,4 @@
 <!-- Footer -->
 ![gitartwork](gitartwork.svg)
 
-<!-- <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg"> -->
+<!-- <img src="https://github.com///blob/main/Footer.jpg"> -->
