@@ -72,13 +72,14 @@
 
 
 
-## Watch my contributions get eaten by snake 🐍
+<!-- ## Watch my contributions get eaten by snake 🐍 -->
 
 <!-- Contribution Snake -->
 
-![snake gif](https://github.com/Janesh7/Janesh7/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Janesh7/Janesh7/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Footer -->
-![gitartwork](gitartwork.svg)
+
+<!-- ![gitartwork](gitartwork.svg) -->
 
 <!-- <img src="https://github.com///blob/main/Footer.jpg"> -->
